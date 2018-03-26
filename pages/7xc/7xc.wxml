@@ -1,0 +1,46 @@
+<view class="da-le-tou">
+  <view class="periods-number-list">
+    <view class="item">
+      <view class="con">
+        <view class="name">第2018028期</view>
+        <view class="ball-number left">
+          <text class="red">03</text>
+          <text class="red">03</text>
+          <text class="red">03</text>
+          <text class="red">03</text>
+          <text class="red">03</text>
+          <text class="red">03</text>
+          <text class="red">03</text>
+        </view>
+      </view>
+    </view>
+    <view class="item">
+      <view class="con">
+        <view class="name">第2018028期</view>
+        <view class="ball-number-normal">
+          <text class="red">03</text>
+          <text class="red">03</text>
+          <text class="red">03</text>
+          <text class="red">03</text>
+          <text class="red">03</text>
+          <text class="red">03</text>
+          <text class="red">03</text>
+        </view>
+      </view>
+    </view>
+    <view class="item">
+      <view class="con">
+        <view class="name">第2018028期</view>
+        <view class="ball-number-normal">
+          <text class="red">03</text>
+          <text class="red">03</text>
+          <text class="red">03</text>
+          <text class="red">03</text>
+          <text class="red">03</text>
+          <text class="red">03</text>
+          <text class="red">03</text>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>

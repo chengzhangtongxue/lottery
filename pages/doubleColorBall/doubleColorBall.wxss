@@ -1,0 +1,67 @@
+.double-color-ball .title {
+  height:70rpx;
+  line-height:70rpx;  
+  padding:0 20rpx;
+  font-size:30rpx;
+  color:#333;
+   background-color:#f5f5f5; 
+}
+.double-color-ball .item {
+  height:165rpx;
+  line-height:165rpx;
+  border-bottom:1px solid #f5f5f5;
+  padding: 0 20rpx;
+  display:-webkit-box;
+}
+.double-color-ball .item .left {
+  flex:1;
+  -webkit-box-flex:1;
+}
+.double-color-ball .item .left .name {
+  margin-top:40rpx;
+  height:30rpx;
+  line-height:30rpx;
+  font-size:34rpx;
+  color:#999;
+}
+.double-color-ball .item .left .draw-num {
+  margin-top:30rpx;
+  font-size:40rpx;
+  height:40rpx;
+  line-height:40rpx;
+}
+.double-color-ball .draw-num text {
+  margin-right:25rpx;
+}
+.double-color-ball .draw-num text.red {
+  color:#ef002e;
+}
+.double-color-ball .draw-num text.blue {
+  color:#4a90e2;
+}
+.double-color-ball .item .right-arrow  {
+  width:22rpx;
+  height:38rpx;
+}
+.double-color-ball .item.active .name{
+  margin-top:20rpx;
+}
+.double-color-ball .item.active .draw-num {
+  display:-webkit-box;
+}
+.double-color-ball .item.active .draw-num text {
+  display:block;
+  width:70rpx;
+  height:70rpx;
+  line-height:70rpx;
+  text-align:center;
+  color:#fff;
+  border-radius:100%;
+  margin-right:10rpx;
+}
+.double-color-ball .item.active .draw-num text.red {
+  background-color:#ef002e;
+}
+.double-color-ball .item.active .draw-num text.blue {
+  background-color:#4a90e2;
+}

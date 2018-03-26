@@ -1,0 +1,17 @@
+<scroll-view scroll-x="true">
+  <view class="active">头条</view>
+  <view>双色球</view>
+  <view>大乐透</view>
+  <view>彩市新闻</view>
+</scroll-view>
+
+<view class="list">
+  <view class="item">
+    <image></image>
+    <view class="con">
+      <view class="name">大乐透2018023期推荐</view>
+      <view class="p">收获收获意外之喜收获意外之喜收获意外之喜收获意外之喜收获意外之喜意外之喜</view>
+      <view class="time">07:32</view>
+    </view>
+  </view>
+</view>

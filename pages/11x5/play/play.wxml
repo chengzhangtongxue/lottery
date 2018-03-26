@@ -1,0 +1,76 @@
+<view class="play-info">
+  <view class="name">11选5玩法说明</view>
+  <view class="p">开奖时间：10分钟一期，每天90期</view>
+  <view class="p">
+    玩法规则：每期从0-11开出5个号码作为中奖号码
+  </view>
+  <view class="p">中奖说明：</view>
+  <view class="table">
+    <view class="item">
+      <view class="td first">玩法</view>
+      <view class="td second">中奖条件</view>
+      <view class="td three">奖金</view>
+    </view>
+    <view class="item">
+      <view class="td first">任选二</view>
+      <view class="td second">选2个号，猜中开奖的任意2个号码</view>
+      <view class="td three">6元</view>
+    </view>  
+    <view class="item">
+      <view class="td first">任选三</view>
+      <view class="td second">选3个号，猜中开奖的任意3个号码</view>
+      <view class="td three">19元</view>
+    </view>  
+    <view class="item">
+      <view class="td first">任选四</view>
+      <view class="td second">选4个号，猜中开奖的任意4个号码</view>
+      <view class="td three">78元</view>
+    </view>  
+    <view class="item">
+      <view class="td first">任选五</view>
+      <view class="td second">选5个号，猜中开奖的任意5个号码</view>
+      <view class="td three">540元</view>
+    </view>  
+    <view class="item">
+      <view class="td first">任选六</view>
+      <view class="td second">选6个号，猜中开奖的任意5个号码</view>
+      <view class="td three">90元</view>
+    </view>  
+    <view class="item">
+      <view class="td first">任选七</view>
+      <view class="td second">选7个号，猜中开奖的任意5个号码</view>
+      <view class="td three">26元</view>
+    </view>  
+    <view class="item">
+      <view class="td first">任选八</view>
+      <view class="td second">选8个号，猜中开奖的任意5个号码</view>
+      <view class="td three">9元</view>
+    </view>  
+    <view class="item">
+      <view class="td first">前一</view>
+      <view class="td second">选1个号，猜中开奖的第1个号码</view>
+      <view class="td three">13元</view>
+    </view>  
+    <view class="item">
+      <view class="td first">前二直选</view>
+      <view class="td second">选2个号与开奖的两个号码相同且顺序一致</view>
+      <view class="td three">130元</view>
+    </view>  
+    <view class="item">
+      <view class="td first">前二组选</view>
+      <view class="td second">选2个号与开奖的前2个号码相同</view>
+      <view class="td three">65元</view>
+    </view>  
+    <view class="item">
+      <view class="td first">前三直选</view>
+      <view class="td second">选3个号与开奖的前2个号码相同并且顺序一致</view>
+      <view class="td three">130元</view>
+    </view>  
+    <view class="item">
+      <view class="td first">前三组选</view>
+      <view class="td second">选3个号与开奖的前3个号码相同</view>
+      <view class="td three">195元</view>
+    </view>  
+  </view>
+  
+</view>

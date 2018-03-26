@@ -1,0 +1,12 @@
+.periods-number-list .item .small {
+  margin-right:40rpx;
+  font-size:14px;
+  margin-top:50rpx;
+}
+.periods-number-list .item .small text {
+  margin:0 10rpx;
+}
+.periods-number-list .item .ball-number-normal text{
+  margin-left:40rpx;
+  font-size:18px;
+}

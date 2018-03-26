@@ -1,0 +1,68 @@
+<view class="list-num">
+  <view class="item">第2018031期 <text>3-20 19:30 截止</text></view>
+  <view class="down">
+    下拉<view class="arrow"></view>
+  </view>
+</view>
+
+<view class="select-nums">
+  <view class="oper-info">
+    <view class="oper">摇一摇</view>
+    <view class="info">至少选择6个<text class="red">红球</text>,一个<text class="blue">蓝球</text></view>
+  </view>
+  <view class="red-nums">
+    <view class="num">01</view>
+    <view class="num">02</view>
+    <view class="num">03</view>
+    <view class="num">04</view>
+    <view class="num">05</view>
+    <view class="num">06</view>
+    <view class="num">07</view>
+    <view class="num">08</view>
+    <view class="num">09</view>
+    <view class="num">10</view>
+    <view class="num">11</view>
+    <view class="num">12</view>
+    <view class="num">13</view>
+    <view class="num">14</view>
+    <view class="num">15</view>
+    <view class="num">16</view>
+    <view class="num">17</view>
+    <view class="num">18</view>
+    <view class="num">19</view>
+    <view class="num">20</view>
+    <view class="num">21</view>
+    <view class="num">22</view>
+    <view class="num">23</view>
+    <view class="num">24</view>
+    <view class="num">25</view>
+    <view class="num">26</view>
+    <view class="num">27</view>
+    <view class="num">28</view>
+    <view class="num">29</view>
+    <view class="num">30</view>
+    <view class="num">31</view>
+    <view class="num">32</view>
+    <view class="num">33</view>
+  </view>
+  <view class="blue-nums">
+    <view class="num">01</view>
+    <view class="num">02</view>
+    <view class="num">03</view>
+    <view class="num">04</view>
+    <view class="num">05</view>
+    <view class="num">06</view>
+    <view class="num">07</view>
+    <view class="num">08</view>
+    <view class="num">09</view>
+    <view class="num">10</view>
+    <view class="num">11</view>
+    <view class="num">12</view>
+    <view class="num">13</view>
+    <view class="num">14</view>
+    <view class="num">15</view>
+    <view class="num">16</view>
+  </view>
+</view>
+
+<view class="fixed-bottom">保存到相册</view>

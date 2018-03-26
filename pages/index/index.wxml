@@ -1,0 +1,140 @@
+<swiper indicator-dots="{{indicatorDots}}"
+  autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" indicator-dots="true">
+  <block wx:for="{{imgUrls}}">
+    <swiper-item>
+      <image src="{{item}}" class="slide-image" width="355" height="150"/>
+    </swiper-item>
+  </block>
+</swiper>
+
+<view class="broadcast">
+  [超级大乐透] 迪丽热巴 喜中10999元
+</view>
+
+<view class="lottery-type clearfix">
+  <!-- <view class="item"> -->
+  <navigator class="item" url="../doubleColorBall/doubleColorBall" >
+    <view class="images">
+      <image src=""/>
+    </view>
+    <view class="right">
+      <view class="name">双色球</view>
+      <view class="info">周二、四、日开奖</view>
+    </view>
+  </navigator>
+  <!-- </view> -->
+  <view class="item">
+    <view class="images">
+      <image src=""/>
+    </view>
+    <view class="right">
+      <view class="name">大乐透</view>
+      <view class="info">周一、三、五开奖</view>
+    </view>
+  </view>
+  <view class="item">
+    <view class="images">
+      <image src=""/>
+    </view>
+    <view class="right">
+      <view class="name">福彩3D</view>
+      <view class="info">每天8:30开奖</view>
+    </view>
+  </view>
+  <view class="item">
+    <view class="images">
+      <image src=""/>
+    </view>
+    <view class="right">
+      <view class="name">七星彩</view>
+      <view class="info">周二、五，日开奖</view>
+    </view>
+  </view> 
+  <view class="item">
+    <view class="images">
+      <image src=""/>
+    </view>
+    <view class="right">
+      <view class="name">重庆时时彩</view>
+      <view class="info">10分钟一期</view>
+    </view>
+  </view> 
+  <view class="item">
+    <view class="images">
+      <image src=""/>
+    </view>
+    <view class="right">
+      <view class="name">PK10</view>
+      <view class="info">10分钟一期</view>
+    </view>
+  </view> 
+   <view class="item">
+    <view class="images">
+      <image src=""/>
+    </view>
+    <view class="right">
+      <view class="name">十一选五</view>
+      <view class="info">10分钟一期</view>
+    </view>
+  </view> 
+   <view class="item">
+    <view class="images">
+      <image src=""/>
+    </view>
+    <view class="right">
+      <view class="name">北京快三</view>
+      <view class="info">10分钟一期</view>
+    </view>
+  </view>
+   <view class="item">
+    <view class="images">
+      <image src=""/>
+    </view>
+    <view class="right">
+      <view class="name">j江苏快三</view>
+      <view class="info">10分钟一期</view>
+    </view>
+  </view>
+   <view class="item">
+    <view class="images">
+      <image src=""/>
+    </view>
+    <view class="right">
+      <view class="name">湖北快三</view>
+      <view class="info">10分钟一期</view>
+    </view>
+  </view>
+   <view class="item">
+    <view class="images">
+      <image src=""/>
+    </view>
+    <view class="right">
+      <view class="name">上海快三</view>
+      <view class="info">10分钟一期</view>
+    </view>
+  </view>
+</view>
+
+<view class="con-bottom">
+  <view class="line"></view>
+  <text class="txt">这是我的d底线</text>
+</view>
+
+<view class="fixed-bottom">
+  <view class="item active">
+    <image src="../../images/Opening_Hall2.png"/>
+    <view>开奖大厅</view>
+  </view>
+  <view class="item">
+    <image src="../../images/information1.png"/>
+    <view>资讯</view>
+  </view>
+  <view class="item">
+    <image src="../../images/Community1.png"/>
+    <view>社区</view>
+  </view>
+  <view class="item">
+    <image src="../../images/my1.png"/>
+    <view>我的彩票</view>
+  </view>
+</view>

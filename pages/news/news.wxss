@@ -1,0 +1,48 @@
+scroll-view {
+   height:72rpx;
+   line-height:72rpx;
+   background-color:#fff;
+   font-size:16px;
+   white-space: nowrap; 
+   display: flex
+ }
+ scroll-view view {
+   display:inline-block;
+   margin:0 40rpx;
+ }
+  scroll-view view.active {
+    color:#ef002e;
+  }
+ .list {
+   margin-top:20rpx;
+ }
+ .list .item {
+   display:flex;
+   padding:20rpx;
+   background-color:#fff;
+ }
+ .list .item image {
+  width:222rpx;
+  height:200rpx;
+  background-color:#dfdfdf;
+ }
+ .list .item .con {
+   margin-left:15rpx;
+   flex:1;
+   display:flex;
+   flex-direction: column;
+   justify-content:space-between;
+ }
+ .list .item .con .name{
+   font-size:18px;
+   color:#333;
+ }
+  .list .item .con .p {
+    font-size:14px;
+    color:#999;
+  }
+   .list .item .con .time {
+     text-align:right;
+     font-size:14px;
+     color:#666;
+   }

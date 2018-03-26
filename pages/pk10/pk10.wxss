@@ -1,0 +1,9 @@
+/* pages/pk10/pk10.wxss */
+/* .periods-number-list .item  */
+.ball-number text {
+  margin-right:10rpx;
+  height:60rpx;
+  line-height:60rpx;
+  width:60rpx;
+  font-size:14px;
+}

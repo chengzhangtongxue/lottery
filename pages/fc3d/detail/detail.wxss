@@ -1,0 +1,62 @@
+.detail .name {
+  color:#999;
+  font-size:14px;
+  height:80rpx;
+  line-height:80rpx;
+  padding:0 20rpx;
+  background-color:#fff;
+}
+.detail .name text {
+  color:#333;
+  font-size:16px;
+}
+.detail .draw-num {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  color:#333;
+  background-color:#fff;
+}
+.moneys {
+  padding-top:30rpx;
+  text-align:center;
+  background-color:#fff;
+  padding-bottom:50rpx;
+}
+.moneys .name {
+  height:56rpx;
+  font-size:16px;
+  color:#333;
+}
+.moneys .money {
+  margin-top:20rpx;
+  color:#ef002e;
+}
+
+.table {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  margin:20px 20rpx;
+  background-color:#fff;
+  text-align:center;
+  border-top:1px solid #dfdfdf;
+  border-left:1px solid #dfdfdf;
+  flex-wrap: wrap;
+}
+.table .item {
+  height:68rpx;
+  line-height:68rpx;
+  border-bottom:1px solid #dfdfdf;
+  border-right:1px solid #dfdfdf;
+  font-size:12px;
+}
+.table .item.first {
+  width:30%;
+}
+.table .item.second {
+  width:30%;
+}
+.table .item.three {
+  width:40%;
+}

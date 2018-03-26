@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/news/detail/detail",
+    "pages/selectNum/selectNum",
+    "pages/analysis/analysis",
+    "pages/news/news",
+    "pages/information/information",
+    "pages/cqssc/play/play",
+    "pages/cqssc/detail/detail",
+    "pages/bjk3/play/play",
+    "pages/bjk3/detail/detail",
+    "pages/bjk3/bjk3",
+    "pages/11x5/play/play",
+    "pages/11x5/detail/detail",
+    "pages/11x5/11x5",
+    "pages/pk10/pk10",
+    "pages/cqssc/cqssc",
+    "pages/7xc/7xc",
+    "pages/fc3d/play/play",
+    "pages/fc3d/detail/detail",
+    "pages/fc3d/fc3d",
+    "pages/daLeTou/play/play",
+    "pages/daLeTou/detail/daLeTouDetail",
+    "pages/daLeTou/daLeTou",
+    "pages/doubleColorBall/doubleColorBall",
+    "pages/doubleColorBall/doubleColorBallDetail",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "#fff",
+    "navigationBarBackgroundColor": "#ef002e",
+    "navigationBarTitleText": "开奖大厅",
+    "navigationBarTextStyle": "#fff"
+  }
+}

@@ -1,0 +1,39 @@
+<view class="double-color-ball">
+  <view class="title detail">每周二、四、日晚21:15开奖</view>
+  <navigator class="item active" url="../doubleColorBall/doubleColorBallDetail">
+  <!-- <view class="item active"> -->
+    <view class="left">
+      <view class="name">第2018028期</view>
+      <view class="draw-num">
+        <text class="red">02</text>
+        <text class="red">02</text>
+        <text class="red">02</text>
+        <text class="red">02</text>
+        <text class="red">02</text>
+        <text class="blue">02</text>
+        <text class="blue">02</text>
+      </view>
+    </view>
+    <!-- <view class="right-arrow"> -->
+      <image class="right-arrow" src="../../images/right_arrow.png"></image>
+    <!-- </view> -->
+  <!-- </view> -->
+  </navigator>
+  <view class="item">
+    <view class="left">
+      <view class="name">第2018028期</view>
+      <view class="draw-num">
+        <text class="red">02</text>
+        <text class="red">02</text>
+        <text class="red">02</text>
+        <text class="red">02</text>
+        <text class="red">02</text>
+        <text class="blue">02</text>
+        <text class="blue">02</text>
+      </view>
+    </view>
+    <!-- <view class="right-arrow"> -->
+      <image class="right-arrow" src="../../images/right_arrow.png"></image>
+    <!-- </view> -->
+  </view>
+</view>

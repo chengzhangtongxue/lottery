@@ -1,0 +1,46 @@
+<view class="play-info">
+  <view class="name">福彩3D玩法说明</view>
+  <view class="p">开奖时间：每天21:15开奖</view>
+  <view class="p">
+    玩法规则：每期开出一个三位数作为中奖号码,百、十、个位每个号码0-9
+  </view>
+  <view class="p">中奖说明：</view>
+  <view class="table">
+    <view class="item">
+      <view class="td first">玩法</view>
+      <view class="td second">中奖条件</view>
+      <view class="td three">奖金</view>
+    </view>
+    <view class="item">
+      <view class="td first">直选</view>
+      <view class="td second">投注号码与开奖号码相同，且顺序一致;</view>
+      <view class="td three">1040元</view>
+    </view>  
+    <view class="item">
+      <view class="td first">组三</view>
+      <view class="td second">投注号码与开奖号码相同，且顺序一致;且开奖号码的任意一两位号码相同 ,如455</view>
+      <view class="td three">346元</view>
+    </view>  
+    <view class="item">
+      <view class="td first">组六</view>
+      <view class="td second">投注号码与开奖号码相同，且顺序一致;且开奖号码的三个号码各不相同 ,如234</view>
+      <view class="td three">173元</view>
+    </view>
+    <view class="item">
+      <view class="td first">直选和值</view>
+      <view class="td second">所选和值与开奖号码和值一致；</view>
+      <view class="td three">1040元</view>
+    </view>
+    <view class="item">
+      <view class="td first">组三和值</view>
+      <view class="td second">所选和值与开奖号码和值一致；且开奖号码为组三，如开奖号码166的和值为1+6+6=13</view>
+      <view class="td three">346元</view>
+    </view>  
+    <view class="item">
+      <view class="td first">组六和值</view>
+      <view class="td second">所选和值与开奖号码和值一致，且开奖号码为组六</view>
+      <view class="td three">173元</view>
+    </view>
+  </view>
+  
+</view>

@@ -1,0 +1,30 @@
+<view class="detail">
+  <view class="name"><text>3D</text> 第2018028期 2018-02-15</view>
+  <view class="draw-num">
+    <view class="ball-number left">
+      <text class="red">03</text>
+      <text class="red">03</text>
+      <text class="red">03</text>
+    </view>
+    <view>试机号： 4  5  5</view>
+  </view>
+  <view class="moneys">
+    <view class="name">本期销售</view>
+    <view class="money">333,888,888元</view>
+  </view>
+
+  <view class="table">
+    <view class="item first">奖项</view>
+    <view class="item second">中奖注数</view>
+    <view class="item three">每注金额(元）</view>
+    <view class="item first">直选</view>
+    <view class="item second">34523</view>
+    <view class="item three">1020</view>
+    <view class="item first">组选3</view>
+    <view class="item second">0</view>
+    <view class="item three">324</view>
+    <view class="item first">组选6</view>
+    <view class="item second">34523</view>
+    <view class="item three">132</view>
+  </view>
+</view>

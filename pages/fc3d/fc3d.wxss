@@ -1,0 +1,34 @@
+.periods-number-list2 .item {
+  height:190rpx;
+  padding:0 20rpx;
+  background-color:#fff;
+  border-bottom:1px solid #dfdfdf;
+}
+.periods-number-list2 .item .con .name  {
+  color:#999;
+  padding-top:20rpx;
+}
+.periods-number-list2 .item .con .info {
+  margin-top:30rpx;
+  display:flex;
+  height:80rpx;
+  align-items: center;
+  color:#666;
+}
+.periods-number-list2 .item .con .ball-number {
+  margin:0 20rpx;
+}
+.periods-number-list2 .item .con .ball-number text {
+  width:80rpx;
+  height:80rpx;
+  line-height:80rpx;
+}
+.periods-number-list2 .item .con .number {
+  color:#ef002e;
+}
+.periods-number-list2 .item .con .number text {
+  margin-right:40rpx;
+}
+.periods-number-list2 .item .con .number text:first-child {
+  margin-left:40rpx;
+}

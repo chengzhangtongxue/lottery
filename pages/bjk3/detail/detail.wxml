@@ -1,0 +1,45 @@
+<view class="bjk3">
+  <view class="small-title">北京快三第2018028期 <text>2018-02-15</text></view>
+  <view class="number-value">
+    <image src="../../../images/dice.png"></image>
+    <view class="value">和值：7</view> 
+  </view>
+  <view class="table">
+    <view class="item">
+      <view class="td">奖项</view>
+      <view class="td">没注金额（元）</view>
+    </view>
+    <view class="item">
+      <view class="td">和值</view>
+      <view class="td red">9-240</view>
+    </view>
+    <view class="item">
+      <view class="td">三同号通选</view>
+      <view class="td red">40</view>
+    </view>
+    <view class="item">
+      <view class="td">三同号单选</view>
+      <view class="td red">240</view>
+    </view>
+    <view class="item">
+      <view class="td">三不同号</view>
+      <view class="td red">40</view>
+    </view>
+    <view class="item">
+      <view class="td">三连号通选</view>
+      <view class="td red">10</view>
+    </view>
+    <view class="item">
+      <view class="td">二连号复选</view>
+      <view class="td">15</view>
+    </view>
+    <view class="item">
+      <view class="td">三连号单选</view>
+      <view class="td">80</view>
+    </view>
+    <view class="item">
+      <view class="td">二不同号</view>
+      <view class="td">8</view>
+    </view>
+  </view>
+</view>

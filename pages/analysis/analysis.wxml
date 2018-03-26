@@ -1,0 +1,23 @@
+<scroll-view scroll-x="true">
+  <view class="active">双色球</view>
+  <view>大乐透</view>
+  <view>十一运夺金</view>
+  <view>时时彩</view>
+</scroll-view>
+
+<view class="list">
+  <view class="item">
+    <view class="name">双色球029期预测：龙头05凤尾31</view>
+    <view class="p">
+      <text>信息来源</text>
+      2018-04-12 07:23
+    </view>    
+  </view>
+  <view class="item">
+    <view class="name">双色球029期预测：龙头05凤尾31</view>
+    <view class="p">
+      <text>信息来源</text>
+      2018-04-12 07:23
+    </view>    
+  </view>
+</view>

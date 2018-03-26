@@ -1,0 +1,37 @@
+scroll-view {
+   height:72rpx;
+   line-height:72rpx;
+   background-color:#fff;
+   font-size:16px;
+   white-space: nowrap; 
+   display: flex
+}
+scroll-view view {
+   display:inline-block;
+   margin:0 40rpx;
+}
+scroll-view view.active {
+    color:#ef002e;
+}
+.list {
+  margin-top:20rpx;
+  background-color:#fff;
+}
+.list .item {
+  padding:30rpx 20rpx 0;
+  height:176rpx;
+  border-bottom:1px solid #dfdfdf;
+}
+.list .item .name {
+  font-size:18px;
+  color:#333;
+}
+.list .item .p {
+  margin-top:30rpx;
+  font-size:14px;
+  color:#666;
+}
+.list .item .p text {
+  color:#999;
+  margin-right:20rpx;
+}

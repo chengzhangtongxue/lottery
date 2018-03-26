@@ -1,0 +1,30 @@
+.periods-number-list .result-num image {
+  width:324rpx;
+  height:92rpx;
+}
+.periods-number-list .result-num {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  padding-top:20rpx;
+}
+.periods-number-list .result-num .draw-num {
+  font-size:18px;
+  color:#da4439;
+  font-weight:bold;
+  width:324rpx;
+}
+.periods-number-list .result-num .draw-num text{
+  margin-right:60rpx;
+}
+.periods-number-list .result-num .draw-num text:first-child {
+  margin-left:30rpx;
+}
+.periods-number-list .item {
+  height:196rpx;
+}
+.periods-number-list .item .value{
+  flex:1;
+  margin-left:40rpx;
+  /* margin-top:60rpx; */
+}

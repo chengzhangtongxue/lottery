@@ -1,0 +1,11 @@
+.ssc-play  .p{
+  margin-top:30rpx;
+  font-size:14px;
+  color:#333;
+  padding:0 20rpx;
+}
+.ssc-play .small-title {
+  font-size:16px;
+  font-weight:bold;
+  margin-top:30rpx;
+}

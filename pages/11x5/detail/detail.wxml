@@ -1,0 +1,45 @@
+<view class="detail">
+  <view class="sub-title">
+    <text class="main">大乐透2018028期</text>
+    <text class="less">2018-02-05</text>
+  </view>
+  <view class="padding">
+    <view class="ball-number">
+      <text class="red">03</text>
+      <text class="red">03</text>
+      <text class="red">03</text>
+      <text class="red">03</text>
+      <text class="red">03</text>
+    </view>
+  </view>
+  
+  
+  <view class="table">
+    <view class="table-title">奖项</view>
+    <view class="table-title">每注金额(元)</view>
+    <view>任选二</view>
+    <view>2</view>
+    <view>任选三</view>
+    <view>1</view>
+    <view>任选四</view>
+    <view>130</view>
+    <view>任选五</view>
+    <view>45</view>
+    <view>任选六</view>
+    <view>1028</view>
+    <view>任选七</view>
+    <view>298</view>
+    <view>任选八</view>
+    <view>145</view>
+    <view>前一直选</view>
+    <view>13</view>
+    <view>前二直选</view>
+    <view>234</view>
+    <view>前二组选</view>
+    <view>1190</view>
+    <view>前三直选</view>
+    <view>198</view>
+    <view>前三组选</view>
+    <view>13</view>
+  </view>
+</view>

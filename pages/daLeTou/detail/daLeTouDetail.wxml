@@ -1,0 +1,56 @@
+<view class="detail">
+  <view class="sub-title">
+    <text class="main">大乐透2018028期</text>
+    <text class="less">2018-02-05</text>
+  </view>
+  <view class="ball-number">
+    <text class="red">03</text>
+    <text class="red">03</text>
+    <text class="red">03</text>
+    <text class="red">03</text>
+    <text class="red">03</text>
+    <text class="red">03</text>
+    <text class="blue">03</text>
+  </view>
+  <view class="money-show">
+    <view class="left">
+      <view class="name">
+        <text>本期销售</text>
+      </view>
+      <view class="money">
+        <text>334,898,883元</text>
+      </view>
+    </view>
+    <view class="right">
+      <view class="name">
+        <text>奖池滚存</text>
+      </view>
+      <view class="money">
+        <text>334,898,883元</text>
+      </view>
+    </view>
+  </view>
+  <view class="table">
+    <view class="table-title">奖项</view>
+    <view class="table-title">注数</view>
+    <view class="table-title">每注金额(元)</view>
+    <view>一等奖</view>
+    <view>4</view>
+    <view>9,323,232</view>
+    <view>二等奖</view>
+    <view>4</view>
+    <view>9,323,232</view>
+    <view>三等奖</view>
+    <view>4</view>
+    <view>9,323,232</view>
+    <view>四等奖</view>
+    <view>4</view>
+    <view>9,323,232</view>
+    <view>五等奖</view>
+    <view>4</view>
+    <view>9,323,232</view>
+    <view>六等奖</view>
+    <view>4</view>
+    <view>9,323,232</view>
+  </view>
+</view>

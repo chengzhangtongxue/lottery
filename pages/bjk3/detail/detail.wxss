@@ -1,0 +1,45 @@
+/* pages/bjk3/detail/detail.wxss */
+.bjk3 .small-title {
+  background-color:#fff;
+}
+.small-title text {
+  font-size:12px;
+  color:#999;
+}
+.bjk3 .number-value{
+  display:flex;
+   justify-content: center; 
+  align-items: center;
+  /* margin-top:20rpx; */
+  padding:30rpx 0;
+  background-color:#fff;
+}
+.bjk3 .number-value image{
+  width:324rpx;
+  height:92rpx;
+  margin-right:30rpx;
+}
+.table {
+  margin:20rpx;
+  background-color:#fff;
+  border-top:1px solid #dfdfdf;
+  border-left:1px solid #dfdfdf;
+}
+.table .item {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  text-align:center;
+}
+.table .item .td {
+  width:50%;
+  height:80rpx;
+  line-height:80rpx;
+  border-right:1px solid #dfdfdf;
+  border-bottom:1px solid #dfdfdf;
+  font-size:14px;
+  color:#666;
+}
+.table .item .td.red {
+  color:#e9152f;
+}

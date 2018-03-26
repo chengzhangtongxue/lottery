@@ -1,0 +1,76 @@
+<swiper indicator-dots="{{indicatorDots}}"
+  autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" indicator-dots="true">
+  <block wx:for="{{imgUrls}}">
+    <swiper-item>
+      <image src="{{item}}" class="slide-image" width="355" height="150"/>
+    </swiper-item>
+  </block>
+</swiper>
+
+<view class="sub-nav">
+  <view class="item">
+    <view class="icon"></view>
+    <view class="name">彩票新闻</view>
+  </view>
+  <view class="item">
+    <view class="icon"></view>
+    <view class="name">预测分析</view>
+  </view>
+  <view class="item">
+    <view class="icon"></view>
+    <view class="name">走势分析图</view>
+  </view>
+  <view class="item">
+    <view class="icon"></view>
+    <view class="name">智能选号</view>
+  </view>
+</view>
+
+<view class="every-day-select">
+  <view class="title">
+    <view>每日精选</view>
+    <view>更多></view>
+  </view>
+
+  <view class="list">
+    <view class="item">
+      <view class="con">
+        <view class="name">大乐透第201819期预测</view>
+        <view class="time">
+          <view class="red">预测分析</view>
+          <view>2018-03-19 14:23</view>
+        </view>
+      </view>
+      <image src=""></image>
+    </view>
+    <view class="item">
+      <view class="con">
+        <view class="name">大乐透第201819期预测大乐透第201819期预测</view>
+        <view class="time">
+          <view class="green">预测分析</view>
+          <view>2018-03-19 14:23</view>
+        </view>
+      </view>
+      <image src=""></image>
+    </view>
+  </view>
+</view>
+
+<view class="fixed-bottom">
+  <view class="item ">
+    <image src="../../images/Opening_Hall1.png"/>
+    <view>开奖大厅</view>
+  </view>
+  <view class="item active">
+    <image src="../../images/information2.png"/>
+    <view>资讯</view>
+  </view>
+  <view class="item">
+    <image src="../../images/Community1.png"/>
+    <view>社区</view>
+  </view>
+  <view class="item">
+    <image src="../../images/my1.png"/>
+    <view>我的彩票</view>
+  </view>
+</view>

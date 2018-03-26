@@ -1,0 +1,47 @@
+<view class="fc3d">
+  <view class="small-title">每天08：30开奖</view>
+  <view class="periods-number-list2">
+    <view class="item">
+      <view class="con">
+        <view class="name">第2018028期 2018-03-15</view>
+        <view class="info">
+          <view>开奖号:</view>
+          <view class="ball-number left">
+            <text class="red">03</text>
+            <text class="red">03</text>
+            <text class="red">03</text>
+          </view>
+          <view>试机号：9 8 1</view>
+        </view>
+      </view>
+    </view>
+    <view class="item">
+      <view class="con">
+        <view class="name">第2018028期 2018-03-15</view>
+        <view class="info">
+          <view>开奖号:</view>
+          <view class="number left">
+            <text class="red">03</text>
+            <text class="red">03</text>
+            <text class="red">03</text>
+          </view>
+          <view>试机号：9 8 1</view>
+        </view>
+      </view>
+    </view>
+    <view class="item">
+      <view class="con">
+        <view class="name">第2018028期 2018-03-15</view>
+        <view class="info">
+          <view>开奖号:</view>
+          <view class="number left">
+            <text class="red">03</text>
+            <text class="red">03</text>
+            <text class="red">03</text>
+          </view>
+          <view>试机号：9 8 1</view>
+        </view>
+      </view>
+    </view>
+    </view>
+</view>

@@ -1,0 +1,59 @@
+/* pages/doubleColorBall/doubleColorBallDetail.wxss */
+.money-show {
+  padding:30rpx 20rpx 60rpx;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  text-align:center;
+}
+.money-show .left,.money-show .right {
+  width:50%;
+}
+.money-show .name{
+  font-size:16px;
+  color:#333;
+}
+.money-show .money {
+  margin-top:10rpx;
+  color:#e04255;
+  font-size:14px;
+}
+
+.table {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  text-align:center;
+  background-color:#fff;
+  margin:0 20rpx;
+  flex-wrap: wrap;
+  border-top:1px solid #dfdfdf;
+  border-left:1px solid #dfdfdf;
+  border-right:1px solid #dfdfdf;
+  font-size:12px;
+  color:#666;
+}
+.table view {
+  height:90rpx;
+  line-height:90rpx;
+  border-bottom:1px solid #dfdfdf;
+}
+.table .table-title {
+  font-size:14px;
+  color:#999;
+}
+.table view.table-title:nth-child(3) {
+  color:#999;
+}
+.table view:nth-child(3n+1) {
+  width:30%;
+}
+.table view:nth-child(3n+2) {
+  width:30%;
+  border-left:1px solid #dfdfdf;
+  border-right:1px solid #dfdfdf;
+}
+.table view:nth-child(3n+3) {
+  width:40%;
+  color:#e04255;
+}

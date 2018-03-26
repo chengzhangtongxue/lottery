@@ -1,0 +1,202 @@
+<view class="play-info">
+  <view class="name">大乐透玩法说明</view>
+  <view class="p">开奖时间：每周一、三、六20:30开奖</view>
+  <view class="p">
+    玩法规则：
+    <text class="red">5个红球</text>+
+    <text class="blue">2个篮球</text>=一注（2元）
+  </view>
+  <view class="p">中奖说明：</view>
+  <view class="table">
+    <view class="item">
+      <view class="view18 title">奖励</view>
+      <view class="view28 title">中奖条件</view>
+      <view class="view18 title">中奖说明</view>
+      <view class="view18 title">单注奖金</view>
+      <view class="view18 title">单注赔率</view>
+    </view>
+    <view class="item">
+      <view class="view18">一等奖</view>
+      <view class="view28">
+        <view class="balls">
+          <view class="red"></view>
+          <view class="red"></view>
+          <view class="red"></view>
+          <view class="red"></view>
+          <view class="red"></view>
+          <view class="blue"></view>
+          <view class="blue"></view>
+        </view>
+      </view>
+      <view class="view18">中5+2</view>
+      <view class="view18">浮动</view>
+      <view class="view18">-------</view>
+    </view> 
+    <view class="item">
+      <view class="view18">二等奖</view>
+      <view class="view28">
+        <view class="balls">
+          <view class="red"></view>
+          <view class="red"></view>
+          <view class="red"></view>
+          <view class="red"></view>
+          <view class="red"></view>
+          <view class="blue"></view>
+          <view class="blue"></view>
+        </view>
+      </view>
+      <view class="view18">中5+1</view>
+      <view class="view18">浮动</view>
+      <view class="view18">-------</view>
+    </view> 
+    <view class="item">
+      <view class="view18">三等奖</view>
+      <view class="view28">
+        <view class="balls">
+          <view class="red"></view>
+          <view class="red"></view>
+          <view class="red"></view>
+          <view class="red"></view>
+          <view class="red"></view>
+          <view class="blue"></view>
+          <view class="blue"></view>
+        </view>
+      </view>
+      <view class="view18">
+        <view class="td">中4+2</view>
+        <view class="td">中4+2</view>
+      </view>
+      <view class="view18">浮动</view>
+      <view class="view18">-------</view>
+    </view> 
+    <view class="item">
+      <view class="view18">四等奖</view>
+      <view class="view28">
+        <view class="td">
+          <view class="balls">
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="blue"></view>
+            <view class="blue"></view>
+          </view>
+        </view>
+        <view class="td">
+          <view class="balls">
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="blue"></view>
+            <view class="blue"></view>
+          </view>
+        </view>
+      </view>
+      <view class="view18">中5+1</view>
+      <view class="view18">浮动</view>
+      <view class="view18">-------</view>
+    </view> 
+    <view class="item">
+      <view class="view18">五等奖</view>
+      <view class="view28">
+        <view class="td">
+          <view class="balls">
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="blue"></view>
+            <view class="blue"></view>
+          </view>
+        </view>
+        <view class="td">
+          <view class="balls">
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="blue"></view>
+            <view class="blue"></view>
+          </view>
+        </view>
+        <view class="td">
+          <view class="balls">
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="blue"></view>
+            <view class="blue"></view>
+          </view>
+        </view>
+      </view>
+      <view class="view18">中5+1</view>
+      <view class="view18">浮动</view>
+      <view class="view18">-------</view>
+    </view>
+    <view class="item">
+      <view class="view18">六等奖</view>
+      <view class="view28">
+        <view class="td">
+          <view class="balls">
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="blue"></view>
+            <view class="blue"></view>
+          </view>
+        </view>
+        <view class="td">
+          <view class="balls">
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="blue"></view>
+            <view class="blue"></view>
+          </view>
+        </view>
+        <view class="td">
+          <view class="balls">
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="blue"></view>
+            <view class="blue"></view>
+          </view>
+        </view>
+        <view class="td">
+          <view class="balls">
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="red"></view>
+            <view class="blue"></view>
+            <view class="blue"></view>
+          </view>
+        </view>
+      </view>
+      <view class="view18">中5+1</view>
+      <view class="view18">浮动</view>
+      <view class="view18">-------</view>
+    </view>
+  </view>
+  <view class="p">
+    红球号码范围为
+    <text class="red">01-33</text>,
+    篮球号码范围为
+    <text class="blue">01-16</text>
+  </view>
+</view>

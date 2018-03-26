@@ -1,0 +1,56 @@
+<view class="play-info">
+  <view class="name">新快3玩法说明</view>
+  <view class="p">开奖时间：10分钟一期，每天90期</view>
+  <view class="p">
+    玩法规则：每期从0-11开出5个号码作为中奖号码
+  </view>
+  <view class="p">中奖说明：</view>
+  <view class="table">
+    <view class="item">
+      <view class="td first">玩法</view>
+      <view class="td second">中奖条件</view>
+      <view class="td three">奖金</view>
+    </view>
+    <view class="item">
+      <view class="td first">和值</view>
+      <view class="td second">猜中开奖相加的和</view>
+      <view class="td three">6元</view>
+    </view>  
+    <view class="item">
+      <view class="td first">三同号单选</view>
+      <view class="td second">猜中111，222，333，444，555，666 中指定一个</view>
+      <view class="td three">19元</view>
+    </view>  
+    <view class="item">
+      <view class="td first">三同号通选</view>
+      <view class="td second">猜中111，222，333，444，555，666 中任意一个</view>
+      <view class="td three">130元</view>
+    </view>  
+    <view class="item">
+      <view class="td first">二同号单选</view>
+      <view class="td second">猜中3个号，其中有2个号相同</view>
+      <view class="td three">80元</view>
+    </view>  
+    <view class="item">
+      <view class="td first">二同号复选</view>
+      <view class="td second">猜中开奖号码中相同的2个号</view>
+      <view class="td three">15元</view>
+    </view>  
+    <view class="item">
+      <view class="td first">三不同号</view>
+      <view class="td second">猜中3个开奖号且3个号码各不相同</view>
+      <view class="td three">40元</view>
+    </view>  
+    <view class="item">
+      <view class="td first">三连号通选</view>
+      <view class="td second">猜中123，234，345，456中任意一个</view>
+      <view class="td three">10元</view>
+    </view>  
+    <view class="item">
+      <view class="td first">二不同号</view>
+      <view class="td second">猜中开奖号码中不相同的2个号</view>
+      <view class="td three">8元</view>
+    </view>  
+  </view>
+  
+</view>
